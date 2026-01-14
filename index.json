@@ -200,6 +200,7 @@
       "Sartor",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
+      "STS (Rémy)",
       "Sugar K",
       "sugarK",
       "SupaflyFPV",
@@ -7257,6 +7258,24 @@
         "air75"
       ],
       "author": "YarosFPV (Yaroslav Syubayev)",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/bnf/BTFL_cli_AKV2GULF_STS_20250725_140106_TMOTORF7.txt",
+      "hash": "a24abc9afd833593aa77881357bb1d74f0370a62ac924633fe106ff2a5a44104",
+      "title": "AKV2GULF_STS",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "BNF",
+      "status": "COMMUNITY",
+      "keywords": [
+        "bnf",
+        "diff",
+        "betafpv",
+        "air75"
+      ],
+      "author": "STS (Rémy)",
       "priority": 0
     },
     {
