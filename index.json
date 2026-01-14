@@ -157,11 +157,9 @@
       "Alex Campbell (Chief)",
       "Alex Vanover",
       "antonig",
-      "Armando Gallegos (Mondo)",
       "AyyyKayyy - Anthony Knight",
       "Benjamin Freelove",
       "benlumley",
-      "bensonk",
       "Betaflight",
       "BMSThomas",
       "Botgrinder",
@@ -349,7 +347,6 @@
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
-      "custom commands",
       "darwin",
       "darwinfpv",
       "davide",
@@ -443,38 +440,32 @@
       "log",
       "logging",
       "Long Range",
-      "longrange",
       "loRanger",
       "lr5",
       "mamba",
       "Marek",
       "mck",
       "meteor",
-      "MGP",
       "MinChan",
       "MM",
       "mode",
       "modes",
-      "mountain surfing",
       "mouse fpv",
       "mr nice",
       "mrnice",
       "msp",
       "MSP VTX",
       "msp-osd",
-      "MtnSurf",
       "Multi",
       "MultiGP",
       "MultiVoltage",
       "names",
       "nano",
       "nanohawk",
-      "navigation",
       "Neil",
       "neuron",
       "nice",
       "nicholas young",
-      "nmea",
       "no rpm",
       "noisy",
       "Normal",
@@ -537,7 +528,6 @@
       "settek",
       "Sh*t pilot",
       "shames",
-      "Sharjah",
       "shitpilot",
       "sliders",
       "Smart",
@@ -568,7 +558,6 @@
       "tank solo",
       "tank ultimate",
       "TBS",
-      "TBS Core",
       "tbs sa",
       "Team Black Sheep",
       "Texas",
@@ -8028,240 +8017,6 @@
       ],
       "author": "sugarK",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/bensonk.txt",
-      "hash": "02af0529b806847b1128711bde753009000a659508ef23613ee7399b29685e98",
-      "title": "bensonk standard OSD config",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "OSD",
-        "TBS",
-        "TBS Core",
-        "GPS",
-        "navigation",
-        "longrange",
-        "mountain surfing",
-        "MtnSurf"
-      ],
-      "author": "bensonk",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/JazzMutant_HDZero_osd.txt",
-      "hash": "a31f1b77f1506cb07a923d7f86a268c98de71574453ac3f4ca6ba11cd7637c0b",
-      "title": "JazzMutant HDZero OSD",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "HDZERO",
-        "HD",
-        "HDOSD",
-        "OSD",
-        "JazzMutant",
-        "Racing"
-      ],
-      "author": "JazzMutant",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/osd/sugark_hdzero_osd.txt",
-      "hash": "d3f43e0baad7d2b2331b71b76029b2576f0f73520ac72060f4ec281153a1e8fa",
-      "title": "sugarK HDzero OSD",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "hdzero",
-        "HD",
-        "HDOSD",
-        "OSD",
-        "sugarK",
-        "racing"
-      ],
-      "author": "sugarK",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/100-euro-fpv-tune.txt",
-      "hash": "3f0256b75809d56d7ec528481ed302ac1d756c9c08bee71b41e213849924b953",
-      "title": "100-EURO-FPV",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "100 euro fpv",
-        "5 inch",
-        "5\"",
-        "antonig",
-        "2023",
-        "multigp",
-        "100euro"
-      ],
-      "author": "antonig",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/bensonk-switches.txt",
-      "hash": "ca0d77d0054512da7ca4551de98098612c3a7b1d4307156b018b03807f03ebf3",
-      "title": "bensonk - Standard switch settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "switch",
-        "mode",
-        "modes"
-      ],
-      "author": "bensonk",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/custom_nmea.txt",
-      "hash": "10931aba011ca232171d37cdacdc287d5f261a8de12bb2f75bb9eef3f9c7b3bc",
-      "title": "Custom NMEA commands",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
-      "keywords": [
-        "gps",
-        "custom commands",
-        "nmea"
-      ],
-      "author": "KMfpv",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/multigp_pro_spec.txt",
-      "hash": "a340e77d4555317ce3c14ecda94583abdf6b074a176a09cd9abfd24e7d0287e2",
-      "title": "MultiGP PRO Spec 7\"",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "6S",
-        "race",
-        "7 inch",
-        "7\"",
-        "Shames",
-        "MGP",
-        "Sharjah",
-        "multigp"
-      ],
-      "author": "Armando Gallegos (Mondo)",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/reset_3d.txt",
-      "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
-      "title": "Reset 3D settings to 4.5 default settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "3d",
-        "upside down"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/reset_gps.txt",
-      "hash": "e02daf2076331cda4141148d2cd029fed1c60803b07a4216d0e455e27a4b676a",
-      "title": "Reset GPS to 4.5 default settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "GPS",
-        "GPS_Rescue"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/Tehllama_5in_Race_Multivoltage_Spec.txt",
-      "hash": "8811417f43f50a28b0cf1e3442fe2aa41d4203a3a661c729866d85ea427527db",
-      "title": "Tehllama 5\" Race Multivoltage Spec",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "OTHER",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "533",
-        "Freedom",
-        "FreedomSpec",
-        "Tune",
-        "Spec",
-        "Race",
-        "Llama",
-        "MultiVoltage",
-        "Texas",
-        "BMS",
-        "3S",
-        "5in",
-        "AutoSelect",
-        "MM",
-        "Omni"
-      ],
-      "author": "Daniel Appel / Tehllama",
-      "force_options_review": true,
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/other/zoefpv.txt",
-      "hash": "78e6a4d9c57554d080044f446552ed5ab60fe28dfe4167099fcb2f1df1e66555",
-      "title": "ZoeFPV 3d tuneup",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "rates",
-        "freestyle",
-        "juicy",
-        "sbang",
-        "zoeFPV",
-        "zoe",
-        "3d",
-        "upside down",
-        "sugarK",
-        "sliders"
-      ],
-      "author": "ZoeFPV",
-      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/rates/AOS_rates.txt",
